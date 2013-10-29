@@ -17,7 +17,7 @@
 	</engines>
 	
 	
-	<asset src="www/LocalNotification.js" target="LocalNotification.js" />
+	<asset src="www/LocalNotification.js" target="js/plugins/LocalNotification.js" />
 	
 	<!-- ios -->
 	<platform name="ios">
